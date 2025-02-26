@@ -52,4 +52,4 @@ jobs:
         run: chmod +x LEGEND.py
 
       - name: Run Application
-        run: python LEGEND.py
+  run: python3.10 LEGEND.py
